@@ -1,0 +1,15 @@
+C:\Users\nesca\RiderProjects\md5\md5\bin\Release\net6.0\md5.exe
+C:\Users\nesca\RiderProjects\md5\md5\bin\Release\net6.0\md5.deps.json
+C:\Users\nesca\RiderProjects\md5\md5\bin\Release\net6.0\md5.runtimeconfig.json
+C:\Users\nesca\RiderProjects\md5\md5\bin\Release\net6.0\md5.dll
+C:\Users\nesca\RiderProjects\md5\md5\bin\Release\net6.0\ref\md5.dll
+C:\Users\nesca\RiderProjects\md5\md5\bin\Release\net6.0\md5.pdb
+C:\Users\nesca\RiderProjects\md5\md5\obj\Release\net6.0\md5.csproj.AssemblyReference.cache
+C:\Users\nesca\RiderProjects\md5\md5\obj\Release\net6.0\md5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesca\RiderProjects\md5\md5\obj\Release\net6.0\md5.AssemblyInfoInputs.cache
+C:\Users\nesca\RiderProjects\md5\md5\obj\Release\net6.0\md5.AssemblyInfo.cs
+C:\Users\nesca\RiderProjects\md5\md5\obj\Release\net6.0\md5.csproj.CoreCompileInputs.cache
+C:\Users\nesca\RiderProjects\md5\md5\obj\Release\net6.0\md5.dll
+C:\Users\nesca\RiderProjects\md5\md5\obj\Release\net6.0\ref\md5.dll
+C:\Users\nesca\RiderProjects\md5\md5\obj\Release\net6.0\md5.pdb
+C:\Users\nesca\RiderProjects\md5\md5\obj\Release\net6.0\md5.genruntimeconfig.cache
